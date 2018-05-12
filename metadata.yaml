@@ -1,5 +1,8 @@
 _repo: The-Roman-Pronunciation-of-Latin--Why-We-Use-It-and-How-to-Use-It_7528
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lord, Frances E. (Frances Ellen)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2506'
     url: http://www.gutenberg.org/2009/agents/2506
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7528#The-Roman-Pronunciation-of-Latin--Why-We-Use-It-and-How-to-Use-It
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
